@@ -13,8 +13,12 @@ Keyboard Shortcuts for Emacs
 3| <kbd>c-x</kbd><kbd>c-c</kbd> | Salir de emacs.
 4| <kbd>c-x</kbd><kbd>s</kbd> | Guardar todos los buffers abiertos.
 5| <kbd>c-x</kbd><kbd>c-w</kbd> | Guardar como.
-5| <kbd>c-x</kbd><kbd>c-e</kbd> | Ejecuta una linea de .el, colocarse al final de dicha linea.
-
+6| <kbd>c-x</kbd><kbd>c-e</kbd> | Ejecuta una linea de .el, colocarse al final de dicha linea.
+7| <kbd>c-x</kbd><kbd>c-b</kbd> | Buscar un buffer.
+8| <kbd>c-x</kbd><kbd>k</kbd> | Matar un buffer.
+9| <kbd>c-k</kbd> | Eliminar una linea.
+10| <kbd>c-x</kbd><kbd>d</kbd> | Listar directorio.
+11| <kbd>c-x</kbd><kbd>c-w</kbd> | Guardar un buffer en un nuevo archivo.
 #####Modo busqueda
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
