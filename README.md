@@ -19,6 +19,7 @@ Keyboard Shortcuts for Emacs
 9| <kbd>c-k</kbd> | Eliminar una linea.
 10| <kbd>c-x</kbd><kbd>d</kbd> | Listar directorio.
 11| <kbd>c-x</kbd><kbd>c-w</kbd> | Guardar un buffer en un nuevo archivo.
+11| <kbd>c-x</kbd><kbd>o</kbd> | Cambiar de pestaña.
 #####Modo busqueda
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
