@@ -20,8 +20,8 @@ Keyboard Shortcuts for Emacs
 10| <kbd>c-x</kbd><kbd>d</kbd> | Listar directorio.
 11| <kbd>c-x</kbd><kbd>c-w</kbd> | Guardar un buffer en un nuevo archivo.
 12| <kbd>c-x</kbd><kbd>o</kbd> | Cambiar de pestaña.
-13| <kbd>c-x</kbd>2<kbd>o</kbd> | Crear un espacio de trabajo horizontal.
-14| <kbd>c-x</kbd>3<kbd>o</kbd> | Crear un espacio de trabajo vertical.
+13| <kbd>c-x</kbd><kbd>2</kbd> | Crear un espacio de trabajo horizontal.
+14| <kbd>c-x</kbd><kbd>3</kbd> | Crear un espacio de trabajo vertical.
 #####Modo busqueda
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
