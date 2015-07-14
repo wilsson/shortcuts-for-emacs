@@ -23,7 +23,8 @@ Keyboard Shortcuts for Emacs
 13| <kbd>c-x</kbd><kbd>2</kbd> | Crear un espacio de trabajo horizontal.
 14| <kbd>c-x</kbd><kbd>3</kbd> | Crear un espacio de trabajo vertical.
 15| <kbd>c-x</kbd><kbd>o</kbd> | moverte entre 2 espacios de trabajo.
-16| <kbd>c-x</kbd><kbd>c-c</kbd> | Salir de emacs.
+16| <kbd>c-x</kbd><kbd>c-c</kbd> | Salir de emacs
+17| <kbd>c-x</kbd><kbd>c-b</kbd> | Crear un archivo.
 #####Modo busqueda
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
