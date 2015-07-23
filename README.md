@@ -25,6 +25,7 @@ Keyboard Shortcuts for Emacs
 15| <kbd>c-x</kbd><kbd>o</kbd> | moverte entre 2 espacios de trabajo.
 16| <kbd>c-x</kbd><kbd>c-c</kbd> | Salir de emacs
 17| <kbd>c-x</kbd><kbd>c-b</kbd> | Crear un archivo.
+18| <kbd>c-q</kbd><kbd>tab</kbd> | Insertar un caracter tab.
 #####Modo busqueda
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
