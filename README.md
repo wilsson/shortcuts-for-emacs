@@ -26,6 +26,8 @@ Keyboard Shortcuts for Emacs
 16| <kbd>c-x</kbd><kbd>c-c</kbd> | Salir de emacs
 17| <kbd>c-x</kbd><kbd>c-b</kbd> | Crear un archivo.
 18| <kbd>c-q</kbd><kbd>tab</kbd> | Insertar un caracter tab.
+19| <kbd>M-x</kbd><kbd>ansi-term</kbd> | abrir la terminal.
+20| <kbd>c-x</kbd><kbd>0</kbd> | Salir de la ventana actual. 
 #####Modo busqueda
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
