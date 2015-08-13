@@ -28,7 +28,12 @@ Keyboard Shortcuts for Emacs
 18| <kbd>c-q</kbd><kbd>tab</kbd> | Insertar un caracter tab.
 19| <kbd>M-x</kbd><kbd>ansi-term</kbd> | abrir la terminal.
 20| <kbd>c-x</kbd><kbd>0</kbd> | Salir de la ventana actual. 
-#####Modo busqueda
+#####Search mode
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
 1| <kbd>c-s</kbd><kbd>c-w</kbd><kbd>c-s</kbd> | Seleccionar palabra y sigue buscando.
+#####dired mode
+[#] | Keyboard Shortcut | Action
+----- | ----- | -----
+1| <kbd>+</kbd> | Crea una carpeta
+
