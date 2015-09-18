@@ -33,8 +33,13 @@ Keyboard Shortcuts for Emacs
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
 1| <kbd>c-s</kbd><kbd>c-w</kbd><kbd>c-s</kbd> | Seleccionar palabra y sigue buscando.
-#####dired mode
+#####Dired mode
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
 1| <kbd>+</kbd> | Crea una carpeta
+#####Command mode
+[#] | Keyboard Shortcut | Action
+----- | ----- | -----
+1| <kbd>M</kbd><kbd>x</kbd><kbd>rgrep</kbd><kbd>[palabra]</kbd><kbd>[glob]</kbd><kbd>[path]</kbd> | Crea una carpeta
+
 
