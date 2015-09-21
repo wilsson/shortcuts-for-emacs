@@ -36,10 +36,10 @@ Keyboard Shortcuts for Emacs
 #####Dired mode
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
-1| <kbd>+</kbd> | Crea una carpeta
+1| <kbd>M-x</kbd><kbd>make-directory</kbd> | Crea una carpeta
 #####Command mode
 [#] | Keyboard Shortcut | Action
 ----- | ----- | -----
-1| <kbd>M</kbd><kbd>x</kbd><kbd>rgrep</kbd><kbd>[palabra]</kbd><kbd>[glob]</kbd><kbd>[path]</kbd> | Crea una carpeta
+1| <kbd>M</kbd><kbd>x</kbd><kbd>rgrep</kbd><kbd>[palabra]</kbd><kbd>[glob]</kbd><kbd>[path]</kbd> | Buscar palabra.
 
 
