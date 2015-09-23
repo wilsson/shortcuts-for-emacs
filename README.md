@@ -43,4 +43,6 @@ Keyboard Shortcuts for Emacs
 1| <kbd>M</kbd><kbd>x</kbd><kbd>rgrep</kbd><kbd>[palabra]</kbd><kbd>[glob]</kbd><kbd>[path]</kbd> | Buscar palabra.
 
 #####Projectile
+[#] | Keyboard Shortcut | Action
+----- | ----- | -----
 1| <kbd>c-,</kbd><kbd>p</kbd><kbd>s</kbd> | cambiar arbol de directorio.
